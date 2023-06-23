@@ -9,5 +9,5 @@
 
 ## Схема обучения с подкреплением
 <p align="center">
-<img src="/media/rl.png />
+<img src="/media/rl.png" style="color: white" />
 </p>
