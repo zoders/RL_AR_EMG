@@ -1,3 +1,0 @@
-- Installed IDF including all IDF requirements
-- CMock requirements (``Ruby``)
-- System package requirements (``libbsd``, ``libbsd-dev``)
