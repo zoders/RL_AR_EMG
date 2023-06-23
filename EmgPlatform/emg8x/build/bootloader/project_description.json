@@ -1,0 +1,22 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/EMG/esp-idf/components/bootloader/subproject",
+    "build_dir":          "D:/EMG/emg_platform/source/esp32/emg8x/build/bootloader",
+    "config_file":        "D:/EMG/emg_platform/source/esp32/emg8x/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v5.0-dev-2563-g45c1d1cba2",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "D:/EMG/esp-idf/components/efuse/Kconfig;D:/EMG/esp-idf/components/esp32/Kconfig;D:/EMG/esp-idf/components/esp_common/Kconfig;D:/EMG/esp-idf/components/esp_hw_support/Kconfig;D:/EMG/esp-idf/components/esp_system/Kconfig;D:/EMG/esp-idf/components/freertos/Kconfig;D:/EMG/esp-idf/components/hal/Kconfig;D:/EMG/esp-idf/components/log/Kconfig;D:/EMG/esp-idf/components/newlib/Kconfig;D:/EMG/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "D:/EMG/esp-idf/components/bootloader/Kconfig.projbuild;D:/EMG/esp-idf/components/esp_rom/Kconfig.projbuild;D:/EMG/esp-idf/components/esptool_py/Kconfig.projbuild;D:/EMG/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "D:/EMG/esp-idf/components/bootloader", "D:/EMG/esp-idf/components/bootloader_support", "D:/EMG/esp-idf/components/efuse", "D:/EMG/esp-idf/components/esp32", "D:/EMG/esp-idf/components/esp_common", "D:/EMG/esp-idf/components/esp_hw_support", "D:/EMG/esp-idf/components/esp_rom", "D:/EMG/esp-idf/components/esp_system", "D:/EMG/esp-idf/components/esptool_py", "D:/EMG/esp-idf/components/freertos", "D:/EMG/esp-idf/components/hal", "D:/EMG/esp-idf/components/log", "D:/EMG/esp-idf/components/bootloader/subproject/main", "D:/EMG/esp-idf/components/bootloader/subproject/components/micro-ecc", "D:/EMG/esp-idf/components/newlib", "D:/EMG/esp-idf/components/partition_table", "D:/EMG/esp-idf/components/soc", "D:/EMG/esp-idf/components/spi_flash", "D:/EMG/esp-idf/components/xtensa", "" ],
+    "debug_prefix_map_gdbinit": ""
+}

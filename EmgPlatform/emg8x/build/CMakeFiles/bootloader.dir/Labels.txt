@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/EMG/emg_platform/source/esp32/emg8x/build/CMakeFiles/bootloader
+D:/EMG/emg_platform/source/esp32/emg8x/build/CMakeFiles/bootloader.rule
+D:/EMG/emg_platform/source/esp32/emg8x/build/CMakeFiles/bootloader-complete.rule
+D:/EMG/emg_platform/source/esp32/emg8x/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/EMG/emg_platform/source/esp32/emg8x/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/EMG/emg_platform/source/esp32/emg8x/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/EMG/emg_platform/source/esp32/emg8x/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/EMG/emg_platform/source/esp32/emg8x/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/EMG/emg_platform/source/esp32/emg8x/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/EMG/emg_platform/source/esp32/emg8x/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

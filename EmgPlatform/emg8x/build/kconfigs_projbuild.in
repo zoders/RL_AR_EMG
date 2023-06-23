@@ -1,0 +1,6 @@
+source "D:/EMG/esp-idf/components/app_update/Kconfig.projbuild"
+source "D:/EMG/esp-idf/components/bootloader/Kconfig.projbuild"
+source "D:/EMG/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "D:/EMG/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "D:/EMG/esp-idf/components/partition_table/Kconfig.projbuild"
+source "D:/EMG/emg_platform/source/esp32/emg8x/main/Kconfig.projbuild"
